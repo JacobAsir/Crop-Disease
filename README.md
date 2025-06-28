@@ -42,8 +42,8 @@ An intelligent web application that uses computer vision and AI to detect crop d
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/crop-disease-identification.git
-   cd crop-disease-identification
+   git clone https://github.com/JacobAsir/Crop-Disease.git
+   cd Crop-Disease
    ```
 
 2. **Install dependencies**
