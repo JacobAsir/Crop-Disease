@@ -98,8 +98,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Streamlit
-.streamlit/
+# Streamlit (allow config.toml but ignore secrets)
+.streamlit/secrets.toml
+.streamlit/credentials.toml
 
 # Temporary files
 temp_image.jpg
