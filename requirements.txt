@@ -2,6 +2,9 @@ streamlit
 ultralytics
 langchain
 groq
-opencv-python-headless
+opencv-python-headless==4.9.0.80
 Pillow
 python-dotenv
+
+# Prevent opencv-python from being installed accidentally
+--extra-index-url https://pypi.org/simple
