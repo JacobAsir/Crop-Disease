@@ -141,13 +141,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **LangChain** for AI application development
 - **Streamlit** for the web framework
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-- Open an issue on GitHub
-- Check the documentation
-- Contact the development team
-
----
 
 **Made with ❤️ for farmers and agricultural professionals worldwide**
